@@ -10,8 +10,6 @@ GROUP 8
 | 5025251009 | Athar Rozy Rasyidan                    |
 | 5025251017 | Wafi Fawwaz Sutisna                    |
 
-# Informatics ITS Graph Theory class Group <GROUP NUMBER / NAME>
-
 ## 1. Algorithm Explanation
 
 The problem requires finding an Eulerian circuit starting and ending at crossing 1. All implementations first check feasibility: every vertex must have an even degree, and all vertices with degree > 0 must be reachable from vertex 1. If either condition fails, the graph has no Eulerian circuit and outputs `IMPOSSIBLE`.
