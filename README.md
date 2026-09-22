@@ -1,4 +1,4 @@
-<img width="1050" height="775" alt="image" src="https://github.com/user-attachments/assets/f444f195-3451-41c6-af67-8bdca2626298" /># Graph Theory Homework
+# Graph Theory Homework
 
 ## Identity
 GROUP 8
