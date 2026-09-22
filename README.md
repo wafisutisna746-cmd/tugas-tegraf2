@@ -61,7 +61,10 @@ gcc -O2 -o decomposition decomposition.c
 ```
 
 **Output**
-[screenshot of result]
+<img width="1507" height="765" alt="image" src="https://github.com/user-attachments/assets/894f2f47-d44e-46dd-afac-156fd8ee3ff0" />
+<img width="1626" height="757" alt="image" src="https://github.com/user-attachments/assets/7a06b3ba-2ce6-4226-bbea-26d56ec3fde2" />
+<img width="1693" height="721" alt="image" src="https://github.com/user-attachments/assets/cd963033-8dda-4688-a07e-02f8d1eb77e5" />
+
 
 *(Note: Any valid Eulerian circuit traversing all 8 edges once and returning to 1 is correct.)*
 
