@@ -69,3 +69,10 @@ gcc -O2 -o decomposition decomposition.c
 *(Note: Any valid Eulerian circuit traversing all 8 edges once and returning to 1 is correct.)*
 
 ---
+
+## AI Disclosure
+
+AI was used to help with coding and making the visual:
+<img width="888" height="836" alt="WhatsApp Image 2026-09-22 at 23 41 52 (1)" src="https://github.com/user-attachments/assets/34bb0386-ec90-4bb5-83dc-a9fd85bb7b69" />
+<img width="872" height="812" alt="WhatsApp Image 2026-09-22 at 23 41 51" src="https://github.com/user-attachments/assets/17ef4e43-a5cd-4808-bdd1-b50a294bc33f" />
+<img width="770" height="842" alt="WhatsApp Image 2026-09-22 at 23 41 52" src="https://github.com/user-attachments/assets/3f2e367e-9933-4655-8f23-c88cf888e91c" />
