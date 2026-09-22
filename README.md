@@ -1,4 +1,4 @@
-# Graph Theory Homework
+<img width="1050" height="775" alt="image" src="https://github.com/user-attachments/assets/f444f195-3451-41c6-af67-8bdca2626298" /># Graph Theory Homework
 
 ## Identity
 GROUP 8
@@ -73,6 +73,16 @@ gcc -O2 -o decomposition decomposition.c
 ## AI Disclosure
 
 AI was used to help with coding and making the visual:
+- cycle decomposition
 <img width="888" height="836" alt="WhatsApp Image 2026-09-22 at 23 41 52 (1)" src="https://github.com/user-attachments/assets/34bb0386-ec90-4bb5-83dc-a9fd85bb7b69" />
+<img width="981" height="756" alt="image" src="https://github.com/user-attachments/assets/ea3dba79-ece9-4649-8038-c0724a8abd59" />
+
+- hier
 <img width="872" height="812" alt="WhatsApp Image 2026-09-22 at 23 41 51" src="https://github.com/user-attachments/assets/17ef4e43-a5cd-4808-bdd1-b50a294bc33f" />
+<img width="943" height="746" alt="image" src="https://github.com/user-attachments/assets/cfa16c24-98cb-4814-9722-8b596b770f4c" />
+
+
+- fleury
 <img width="770" height="842" alt="WhatsApp Image 2026-09-22 at 23 41 52" src="https://github.com/user-attachments/assets/3f2e367e-9933-4655-8f23-c88cf888e91c" />
+<img width="957" height="750" alt="image" src="https://github.com/user-attachments/assets/b1e6318b-4c87-4c88-b5da-4161c20b9d52" />
+
